@@ -2,7 +2,7 @@
   width: 600px;
   height: 500px;
   margin: auto;
-  padding: 0;
+  padding: 5px 0px;
   border: 1px solid #000;
   border-radius: 5px;
   box-sizing: border-box;
@@ -13,7 +13,7 @@ table {
   width: 100%;
   height: 80%;
   border-collapse: collapse;
-  margin-top: 0px;
+  margin-top: 10px;
 }
 th,
 td {
@@ -41,9 +41,9 @@ th {
 }
 .button {
   padding: 0px 16px;
-  margin: 5px;
+  margin: 0px;
   font-size: 15px;
-  background-color: rgb(177, 239, 211);
+  background-color: rgb(186, 225, 239);
   color: black;
   border: 2px solid #8bb7e5;
   border-radius: 5px;
